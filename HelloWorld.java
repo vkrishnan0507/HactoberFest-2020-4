@@ -4,5 +4,9 @@ class HelloWorld
   {
    System.out.println("This is a dummy program");
    System.out.println("hello World");
+    /*output:
+    This is a dummy program
+    hello World
+    */
   }
 }
